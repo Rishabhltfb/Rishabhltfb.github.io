@@ -246,10 +246,10 @@ div[class^="bar-"] {
   margin: 2.7px;
 }
 
-.bar-html,
-.bar-css,
-.bar-javascript,
-.bar-react {
+.bar-flutter,
+.bar-node,
+.bar-firebase,
+.bar-socket {
   width: calc(0-6px);
 }
 
